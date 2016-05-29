@@ -1,9 +1,9 @@
-//                                    //
-//  Title:   I2C_Master_ReadRequest   //
-//  Author:  J Hedges                 //
-//  Date:    29/05/2016               //
-//  Board:   Uno                      //
-//                                    //
+//                                      //
+//  Title:   I2C_Slave_WriteOnRequest   //
+//  Author:  J Hedges                   //
+//  Date:    29/05/2016                 //
+//  Board:   Uno                        //
+//                                      //
 
 //  Library Declarations  //
 #include <Wire.h>
